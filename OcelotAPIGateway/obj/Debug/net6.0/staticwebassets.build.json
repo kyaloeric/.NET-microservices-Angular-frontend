@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RWP+SMRpyQxKK5wcXedjwdaqEIcRoCW/H+PExQOzeiU=",
+  "Source": "OcelotAPIGateway",
+  "BasePath": "_content/OcelotAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
