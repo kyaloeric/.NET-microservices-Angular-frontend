@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cs2w9D5xnhgiU0KXu3SUaRtnjCj1UvUNJ27RDcR2l5ah0vgQRix+Fu4oiFjIoRQoMZQxIEONKR53brFohwMpvA==",
+  "dgSpecHash": "OQ4sU3+KSmAEkLyfxFZrgrB2ABUrj0XJjWWnw+wRbjdMmoI25wVYUfbXvlq9GONu3LODYW/fppP4KUJhTx1C0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\EricKyaloKioko\\source\\repos\\MicroservicesOcelot\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
   "expectedPackageFiles": [
@@ -21,10 +21,10 @@
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

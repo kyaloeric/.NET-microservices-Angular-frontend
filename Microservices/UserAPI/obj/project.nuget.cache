@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XXcqzq6T8sJyfiqC6PjalAnLPS4AFB3/uyB33C5bd+hRFEHWkK72eNeD5sdb5/lr+D3JWukFNQAC6D5uOGxbmw==",
+  "dgSpecHash": "o07vHEwhfQ9zWvq4kz4TZELvpLCNAgyoDGQV0wbNYdzw2C0swm2v86Ld1EBWxI5Zx63rzS2aIBZVLEgJpxF5rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\EricKyaloKioko\\source\\repos\\MicroservicesOcelot\\Microservices\\UserAPI\\UserAPI.csproj",
   "expectedPackageFiles": [
@@ -53,10 +53,10 @@
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }
