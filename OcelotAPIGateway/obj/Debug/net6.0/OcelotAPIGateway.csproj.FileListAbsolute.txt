@@ -39,3 +39,4 @@ C:\Users\EricKyaloKioko\source\repos\MicroservicesOcelot\OcelotAPIGateway\obj\De
 C:\Users\EricKyaloKioko\source\repos\MicroservicesOcelot\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.pdb
 C:\Users\EricKyaloKioko\source\repos\MicroservicesOcelot\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.genruntimeconfig.cache
 C:\Users\EricKyaloKioko\source\repos\MicroservicesOcelot\OcelotAPIGateway\obj\Debug\net6.0\ref\OcelotAPIGateway.dll
+C:\Users\EricKyaloKioko\source\repos\MicroservicesOcelot\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.sourcelink.json

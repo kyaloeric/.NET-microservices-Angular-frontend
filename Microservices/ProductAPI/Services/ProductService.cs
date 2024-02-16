@@ -13,9 +13,9 @@ namespace ProductAPI.Services
         {
             return _dbContext.Products.ToList();
         }
-        public Product GetProductById(int id)
+        public Product GetProductById(int Id)
         {
-            return _dbContext.Products.Where(x => x.ProductId == id).FirstOrDefault();
+            return _dbContext.Products.Where(x => x.ProductId == Id).FirstOrDefault();
         }
         public Product AddProduct(Product product)
         {
