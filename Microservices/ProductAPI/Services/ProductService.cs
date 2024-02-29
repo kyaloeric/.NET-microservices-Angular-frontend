@@ -1,4 +1,5 @@
-﻿using ProductAPI.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using ProductAPI.Data;
 using ProductAPI.Models;
 namespace ProductAPI.Services
 {
@@ -38,3 +39,7 @@ namespace ProductAPI.Services
         }
     }
 }
+
+
+
+//return _dbContext.Products.Where(x => x.ProductId == Id).FirstOrDefault();
