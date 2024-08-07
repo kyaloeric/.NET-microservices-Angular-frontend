@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PM462lLS1alWkxyJZCs1iuoBUkRuJVTCsT+u636GsuTN4c0b+F6RpeoCYbrLx3UFQCZnQkAFJj4ec2MXtJvPOg==",
+  "dgSpecHash": "ln5+8ErbhMpjDT5e0xZtLdNmF4Fv5h4ZYNw9aHV13RPZchUPwd2E28I6A3oW4Cr2pjiyoP8edoE6NsvWlKAfEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\EricKyaloKioko\\source\\repos\\MicroservicesOcelot\\Microservices\\ProductAPI\\ProductAPI.csproj",
   "expectedPackageFiles": [
@@ -52,11 +52,7 @@
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+    "C:\\Users\\EricKyaloKioko\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

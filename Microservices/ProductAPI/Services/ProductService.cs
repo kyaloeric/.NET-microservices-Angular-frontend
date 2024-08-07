@@ -43,3 +43,9 @@ namespace ProductAPI.Services
 
 
 //return _dbContext.Products.Where(x => x.ProductId == Id).FirstOrDefault();
+
+
+//return _dbContext.Products.Where(x => x.ProductId == Id).FirstOrDefault();
+
+//return _dbContext.Products.Where(x => x.ProductId == Id).FirstOrDefault();
+
